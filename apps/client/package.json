@@ -13,6 +13,7 @@
     "@repo/ui": "*",
     "@types/jsonwebtoken": "^9.0.5",
     "@types/mongoose": "^5.11.97",
+    "axios": "^1.6.5",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.4",
     "next": "14.0.4",
